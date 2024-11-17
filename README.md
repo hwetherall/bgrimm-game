@@ -57,13 +57,10 @@ node index.js
 - Real-time statistics and rankings
 
 ## Contributing
-This is a project for the BGrimm Business Game workshop. Feel free to fork and modify for your own use.
-
-## License
-[Choose appropriate license]
+This is a project for the BGrimm Business Game workshop.
 
 ## Author
-[Your Name]
+Harry Wetherall
 
 ## Acknowledgments
 - Built for BGrimm Business Game workshop
